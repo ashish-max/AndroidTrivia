@@ -7,6 +7,9 @@ screens. Each screen is implemented as a fragment.
 
 The app navigates using buttons, the app bar, and a navigation drawer.
 
+To win the game you need to correct 3 consecutive questions based on android.<br>
+The winner gets a chance to share his/her achievements.<br> 
+
 Prerequisites
 -------------
 
