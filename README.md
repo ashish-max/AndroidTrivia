@@ -19,4 +19,4 @@ You need to know:
 - How to open, build, and run apps with Android Studio.
 - How to work with layouts.
 
-# Download the file and run it in Android Studio and test it in emulator or any other physical device.<br> 
+## Download the file and run it in Android Studio and test it in emulator or any other physical device.<br> 
