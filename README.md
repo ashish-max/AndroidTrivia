@@ -20,3 +20,7 @@ You need to know:
 - How to work with layouts.
 
 ## Download the file and run it in Android Studio and test it in emulator or any other physical device.<br> 
+
+### Developed by
+ [Ashish ku. Behera](https://github.com/ashish-max "Github Id")
+
